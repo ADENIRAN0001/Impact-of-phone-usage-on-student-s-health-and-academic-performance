@@ -1,9 +1,22 @@
 # Impact-of-phone-usage-on-students--health-and-academic-performance
 TABLE OF CONTENT
-## [Project-Overview](#Project-Overview)
+## [Project Overview](#Project-Overview)
+## [Data Collection](#Data-Collection)
+## [Demography of the students](Demography-of-the-students)
+## [Data cleaning](Data-cleaning)
+## [Research questions](Research-questions)
+## [Methodology](Methodology)
+## [Data analysis/Result](Data-analysis/Result)
+## [Results](Results)
+## [The Dashboard](The-Dashboard)
+## [Insights](Insights)
+## [Conclusion](Conclusion)
+## [Recommendation](Recommendation)
+## [Limitation](Limitation)
+
 ## Project Overview
 This project focuses on the impact of the use of smartphone by students on their health and how it affects their academic performance. Smartphones have a lot of educational values which helps students to improve on learning and obtain excellent results in their examinations. However, many students are seriously affected by the use of smartphone. It has caused more harms than good to their health and academic performance of many students. 
-## Data Collection. 
+## Data Collection
 The Dataset was collected from Kaggle. Kaggle is a well-known website where different kinds of Dataset can be obtained for the purpose of Data analysis, modelling and practice. 
 ### Demography of the students
 -	The age range of the students between 16-35.
@@ -77,7 +90,6 @@ The features of my Microsoft Power BI Dashboard are listed below;
 4.	Social media is the second highest phone activities by the student while the highest is a combination of different activities such as social media,  web-browsing, messaging etc
 ## Conclusion
 Smartphones have a lot of educational values which can be harnessed by students to achieve great feats in their academics. The internet has enough educational resources that can help any student to obtain excellent results in their examinations. This will drastically reduce failure in most examination in the country including the menace of examination malpractices. However, many students are seriously affected by the use of smartphone. They use the phone majorly for non-academic activities. The health effects of phone usage are majorly sleeping disturbance which will lead to mental stress, anxiety, migraine and lack of concentration in the class. This can be reduced if student use blue light filter and reduce the time spend with the phone.
-
 ## Recommendation
 1.	Parent should install blue light filter in the rooms of their children.
 2.	Students should always use reading mode feature on their phone. 

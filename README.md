@@ -1,14 +1,15 @@
 # Impact-of-phone-usage-on-student-s-health-and-academic-performance
 ## Project Overview
 This project focuses on the impact of the use of smartphone by students on their health and how it affects their academic performance. Smartphones have a lot of educational values which helps students to improve on learning and obtain excellent results in their examinations. However, many students are seriously affected by the use of smartphone. It has caused more harms than good to their health and academic performance of many students. 
-## Data Collection. The Dataset was collected from Kaggle. Kaggle is a well-known website where different kinds of Dataset can be obtained for the purpose of Data analysis, modelling and practice. 
+## Data Collection. 
+The Dataset was collected from Kaggle. Kaggle is a well-known website where different kinds of Dataset can be obtained for the purpose of Data analysis, modelling and practice. 
 ### Demography of the students
 -	The age range of the students between 16-35.
 -	A total of one hundred (100) students responded to the survey.
 -	Eighty-one (81) of the respondents are male while nineteen (19) are female. 
 -	Most of the respondents use an android phone while a few uses iOS.
 ## Data cleaning
-The Dataset went through a proper cleaning and wrangling process. Inconsistent responses were removed. a Data reliability test was conducted on the Dataset to ensure consistency and validity.
+The Dataset went through a proper cleaning and wrangling process. Inconsistent responses were removed. A Data reliability test was conducted on the Dataset to ensure consistency and validity.
 ## Data cleaning tool
 -	Microsoft Excel
 

@@ -1,4 +1,6 @@
 # Impact-of-phone-usage-on-students--health-and-academic-performance
+TABLE OF CONTENT
+## [Project-Overview](#Project-Overview)
 ## Project Overview
 This project focuses on the impact of the use of smartphone by students on their health and how it affects their academic performance. Smartphones have a lot of educational values which helps students to improve on learning and obtain excellent results in their examinations. However, many students are seriously affected by the use of smartphone. It has caused more harms than good to their health and academic performance of many students. 
 ## Data Collection. 
